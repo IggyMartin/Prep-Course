@@ -1,0 +1,9 @@
+ Variables: Son como unas cajitas donde guardamos algo. Le ponemos un nombre, y si mas tarde queremos usarla llamamos a ese nombre.
+
+Strings: todo lo que escribamos adentro de comillas (asi '', o asi "") es una string.
+
+Funciones (argumentos, `return`): A las funciones tambien le ponemos nombre como a las variables (cajitas). Pero estas son como unas cajas grandes que hacen lo que le pedimos. Adentro de ellas podemos usar las cajitas y con la palabra magica "return" le pedimos que nos devuelva lo que le pedimos
+
+ Declaraciones `if`: los if es como si le dijeramos a la compu "bueno, si pasa esto, devolveme lo de aca, y sino, lo de alla". Tambien pueden ser largos, como decirle "si lo q pasa es asi, dame 1, sino 2, 3, 4... y asi hasta q pase alguna"
+
+ Valores booleanos (`true`, `false`): es una manera de pedirle a la compu q nos diga si lo que escribimos es verdadero ("true") o falso ("false")
