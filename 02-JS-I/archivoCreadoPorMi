@@ -1,6 +1,6 @@
  Variables: Son como unas cajitas donde guardamos algo. Le ponemos un nombre, y si mas tarde queremos usarla llamamos a ese nombre.
 
-Strings: todo lo que escribamos adentro de comillas (asi '', o asi "") es una string.
+Strings: todo lo que escribamos adentro de comillas (asi '', o asi "") es una string. 
 
 Funciones (argumentos, `return`): A las funciones tambien le ponemos nombre como a las variables (cajitas). Pero estas son como unas cajas grandes que hacen lo que le pedimos. Adentro de ellas podemos usar las cajitas y con la palabra magica "return" le pedimos que nos devuelva lo que le pedimos
 
