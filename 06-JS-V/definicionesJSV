@@ -1,0 +1,8 @@
+* `prototype`:
+ Pensa al 'prototype' como si fuera el altillo de tu casa. En este altillo guardas las cosas 
+ grandes y pesadas para que no ocupen espacio y no anden sueltas por la casa¿En caso de querer 
+ alguna cosa grande y pesada, donde la vas a encontrar? Exacto, en el altillo! Asi funciona el prototype en programacion. Los metodos (que pueden ocupar espacio, ser grandes y pesadas) los metemos en el prototype   
+
+ Constructors_ (de Clases):
+El constructor es la casa en si. En él escribimos las propiedades en comun que pueden tener varias casas 
+(por ejemplo piso, baños, ambientes, etc)
